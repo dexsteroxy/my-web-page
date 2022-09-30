@@ -1,0 +1,122 @@
+body{
+    
+    background-image: linear-gradient(to right, blue, rgba(255,0,0,1));
+    height: 100vh;
+    
+      }
+      
+      
+
+      .form{
+        width: 954px;
+        height: 480px;
+        background: linear-gradient(to right,red, blue);
+        position: absolute;
+        top: -20px;
+        margin: 100px;
+        margin-left: 300px;
+        border-radius: 10px;
+        padding: 25px;
+        
+        
+      }
+
+      .form h1{
+        width: 220px;
+        font-family: sans-serif;
+        text-align: center;
+        color: white;
+        font-size: 29px;
+        border-radius: 10px;
+        margin: 6px;
+        padding: 8px;
+        
+      }
+      
+      .form input{
+        background-color: black;
+        border: 1px solid rgba(0, 0, 225, 1.0);
+        border-radius: 18px;
+        margin: 0px;
+        font-size: 20px;
+        margin-left: 210px;
+        
+        margin-right: 25px;
+        
+        margin-bottom: 50px;
+
+      }
+      
+      .music{
+        width: 650px;
+        height: 505px;
+        background: linear-gradient(to right,black, black);
+        margin-left: 160px;
+      }
+      .ugoo{
+        color: white;
+        margin-left: 190px;
+        margin-top: 10px;
+      }
+      .ink{
+        color: white;
+        
+        margin-left: 280px;
+        margin-bottom: -100px;
+        margin-top: -3px;
+        
+        
+      }
+      .btn{
+        
+        margin-top: 5px;
+        background: black;
+        color: white;
+        border: 2px solid #2b9138;
+        font-size: 20px;
+        padding: 10px;
+        border-radius: 16px;
+        width: 100px;
+        margin-left: 289px;
+        margin-bottom: 210px
+        
+        
+        
+      }
+      .form h1{
+        margin-left: 199px;
+      }
+      .pen{
+        text-decoration: none;
+        color: white;
+        margin-bottom: 40px;
+        
+      }
+      .me{
+        height: 30px;
+        width: 30px;
+        margin-top: -141px;
+        color: white;
+        margin-left: 330px;
+      }
+      .love{
+        
+        height: 30px;
+        width: 30px;
+        color: white;
+        margin-left: 200px;
+        margin-top: -25px;
+
+      }
+      .book{
+        height: 30px;
+        width: 30px;
+        color: white;
+        margin-left: 450px;
+        margin-top: -29px;
+      }
+input{
+  text-align: center;
+  margin-bottom: -30px;
+}
+  
